@@ -1,4 +1,4 @@
 /vendor/
 /.vscode/
 /node_modules/
-/config/db.php/
+/config/
